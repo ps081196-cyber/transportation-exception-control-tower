@@ -1,6 +1,4 @@
-# Transportation Exception Control Tower
 
-Portfolio project tailored to Amazon's **Transportation Representative, IN Channel Support** role (Job ID 10418348).
 
 ## Business scenario
 
